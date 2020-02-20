@@ -1,0 +1,9 @@
+code for openn cv
+https://medium.com/machine-learning-world/tutorial-making-road-traffic-counting-app-based-on-computer-vision-and-opencv-166937911660
+matlabp plot code:
+thrty=[0 0 0 2 2 0 1 2 2 0 1 1 1 0 2 2 2 0 1 2 2 0 1 2 1 0 2 1 2 0 1 1 0 0 0 1 1 0 1 1 0 0 2 1 0 0 2 2 2 0 0 0 1 0 1 1 1 0 0 1 2]
+plot(thrty,'-o')
+hold on
+fteen=[0 0 2 2 0 0 0 0 0 0 2 2 0 0 1 1 1 0 0 1 1 0 1 1 1 0 2 1 2 0 2]
+plot(fteen,'-*')
+hold on
